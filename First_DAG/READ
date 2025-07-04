@@ -1,0 +1,1 @@
+WORK FLOW  :   check_file >> pre_process >> agg >> create_table >> insert >> email
